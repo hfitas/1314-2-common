@@ -21,7 +21,7 @@ LI41D-G10 marcomoreira92 mcjorge
 LI41D-G11 
 LI41D-G12 
 
-LI41N-G01 
+LI41N-G01 hfitas pytress
 LI41N-G02 
 LI41N-G03 nlaert jprisel
 LI41N-G04 
